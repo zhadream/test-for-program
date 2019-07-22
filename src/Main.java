@@ -9,8 +9,8 @@ class Main {
         System.out.println(stream.findFirst());
         System.out.println(stream.findAny());
         System.out.println(stream.sorted());
-        System.out.println(stream.skip(1));
-        System.out.println(stream.limit(1));
+//        System.out.println(stream.skip(1));
+//        System.out.println(stream.limit(1));
 
     }
 
